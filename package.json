@@ -1,0 +1,39 @@
+{
+  "name": "derrick-interview-submission",
+  "version": "1.0.0",
+  "description": "This is the dependecies for Derrick's interview submission",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --testTimeout=10000",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrickdso/eng-interview.git"
+  },
+  "author": "Derrick Dieso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derrickdso/eng-interview/issues"
+  },
+  "homepage": "https://github.com/derrickdso/eng-interview#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}

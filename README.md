@@ -37,7 +37,7 @@ You should aim to spend 3-4 hours on this task and then send us waht you have, e
 
 ## Instructions
 
-Use whatever programming language / framework is most comfortable for you. The deliverable should be the source code to a runnable API that meets all of the requirements. While you're welcome to use a database, it's probably faster and easier to just mock your data. Be sure to document the steps to get your code up and running in a local development environment in a README. This would be a good place to also document any assumptions / simplifications that you made. 
+Use whatever statically typed programming language / framework is most comfortable for you. The deliverable should be the source code to a runnable API that meets all of the requirements. While you're welcome to use a database, it's probably faster and easier to just mock your data. Be sure to document the steps to get your code up and running in a local development environment in a README. This would be a good place to also document any assumptions / simplifications that you made. 
 
 ## How to submit
 You can: 

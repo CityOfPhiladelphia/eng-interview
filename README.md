@@ -33,7 +33,7 @@ Your challenge is to:
 1. Be sure to include input validation for your endpoints 
 
 ## Time Constraint
-You should aim to spend 3-4 hours on this task and then send us waht you have, even if it's not all the way done. 
+You should aim to spend 3-4 hours on this task and then send us what you have, even if it's not all the way done. 
 
 ## Instructions
 
